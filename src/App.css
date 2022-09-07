@@ -1,4 +1,3 @@
-
 .todoItem-container {
   width: 700px;
   margin: auto;
@@ -120,7 +119,8 @@
   line-height: 15px;
   color: #8F7893;
 }
-.activity-wrapper{
+
+.activity-wrapper {
   margin-left: 38px;
 }
 
@@ -133,7 +133,8 @@
   border-radius: 8px;
   box-shadow: 5px 8px 20px rgba(0, 0, 0, 0.071);
 }
-.ul{
+
+.ul {
   padding: 0px;
 }
 
@@ -144,7 +145,8 @@
     margin-top: 0px;
     padding: 10px;
   }
-  .activity-wrapper{
+
+  .activity-wrapper {
     margin-left: 0px;
   }
 }
